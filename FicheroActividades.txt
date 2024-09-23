@@ -1,0 +1,4 @@
+1;Yoga;32
+2;Zumba;15
+3;ZumbaPrivada;4
+5;Jogging;20
